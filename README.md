@@ -30,6 +30,14 @@ Transit systems frequently suffer from unpredictable delays caused by urban traf
 
 * Excel/CSV for reporting.
 
+✅ How to Run
+
+* Clone the repo or download the project files
+
+* Run Transit_delay_analysis.py
+
+* Check output files: scorecard .csv/.xlsx
+
 
 
 
