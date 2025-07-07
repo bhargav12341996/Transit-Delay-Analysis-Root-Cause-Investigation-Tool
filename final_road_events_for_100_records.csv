@@ -1,0 +1,16 @@
+Event_Type,Timestamp,Latitude,Longitude,Severity
+Double Parking,2025-07-01 07:01:00,37.78,-122.41000000000001,High
+Double Parking,2025-07-01 07:20:00,37.782,-122.408,Medium
+Construction Activity,2025-07-01 07:49:00,37.788,-122.402,Medium
+Construction Activity,2025-07-01 07:06:00,37.782,-122.408,Low
+Construction Activity,2025-07-01 07:41:00,37.79,-122.4,Low
+Double Parking,2025-07-01 08:08:00,37.796,-122.394,High
+Construction Activity,2025-07-01 07:11:00,37.784,-122.406,Medium
+Construction Activity,2025-07-01 07:42:00,37.791999999999994,-122.39800000000001,High
+Construction Activity,2025-07-01 08:01:00,37.794,-122.396,Low
+Double Parking,2025-07-01 07:03:00,37.78,-122.41000000000001,Medium
+Construction Activity,2025-07-01 07:18:00,37.782,-122.408,Low
+Double Parking,2025-07-01 07:33:00,37.784,-122.406,High
+Double Parking,2025-07-01 07:05:00,37.78,-122.41000000000001,Medium
+Double Parking,2025-07-01 07:21:00,37.782,-122.408,High
+Double Parking,2025-07-01 07:56:00,37.79,-122.4,Low
