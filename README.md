@@ -24,5 +24,12 @@ Transit systems frequently suffer from unpredictable delays caused by urban traf
 
 * Outputs a CSV file summarizing delays and potential causes
 
+📀 Technologies Used
+
+* Python (Pandas, datetime)
+
+* Excel/CSV for reporting.
+
+
 
 
