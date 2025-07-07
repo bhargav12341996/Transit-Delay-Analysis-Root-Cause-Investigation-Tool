@@ -38,6 +38,8 @@ Transit systems frequently suffer from unpredictable delays caused by urban traf
 
 * Check output files: scorecard .csv/.xlsx
 
+🖼️ Project Screenshot of CSV file after running the python file:
 
 
+![image](https://github.com/user-attachments/assets/db942d1e-51d0-432c-8927-2b97ad2ac82b)
 
